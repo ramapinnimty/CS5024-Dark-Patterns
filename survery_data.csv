@@ -1,0 +1,55 @@
+Timestamp,Are you in a technical-related major / field?,How many hours per day do you typically use the internet (please enter a number and use decimals for partial hours)?,Please rate how 'tech-savvy' you believe yourself to be.,"Answer quickly: If you ever happen to stumble upon an option on a webpage as the one in the below snippet, are you going to check the box?","You are checking out an online shopping site and are being asked to add an item to your basket, which is the first button you are pressing?","You want to download a given file from the website below. Which download button do you ""instinctively"" click? ",How many options do you think you are allowed to select in the following response prompt?,"Are you familiar with the term ""Dark Pattern""?",Have you taken any measures to learn about the general guidelines of internet safety?,"If your answer to the previous question is ""Yes"" please explain which measures below, otherwise type ""no"" in the box."
+11/19/2021 9:53:16,No,6.5,3,No,The right button,Option 1,1,No,No,
+11/19/2021 9:57:55,No,12,3,No,The left button,Option 1,4,No,No,no
+11/19/2021 11:12:14,No,10,4,No,The left button,Option 2,4,No,Yes,"Don't download anything from suspicious websites, look at user reviews to get a feel for how legitimate a site is, don't click on pop-up links"
+11/19/2021 11:13:40,Yes,8,4,No,The left button,Option 1,4,No,No,
+11/19/2021 11:16:56,No,8.5,3,No,The left button,Option 2,1,No,No,No
+11/19/2021 11:28:02,No,10,4,Yes,The left button,Option 2,4,No,No,
+11/19/2021 15:04:41,No,6,3,No,The right button,Option 1,4,No,No,No
+11/19/2021 15:11:41,No,10,3,No,The left button,Option 1,4,No,No,No
+11/20/2021 22:40:14,Yes,4,3,Yes,The right button,Option 1,3,No,No,no
+11/21/2021 0:49:48,Yes,12,5,No,The left button,Option 2,1,Yes,Yes,"Studying existing dark patterns, paying careful attention, long experience on the internet, resources about safe navigation, forums about scams and dark patterns, etc."
+11/21/2021 1:07:36,Yes,7.5,4,Yes,The left button,Option 2,4,No,No,
+11/21/2021 11:40:41,Yes,8,3,No,The right button,Option 1,1,No,No,
+11/21/2021 17:31:48,Yes,6,4,Yes,The left button,Option 2,1,Yes,No,no
+11/21/2021 19:25:44,Yes,8,3,No,The left button,Option 1,1,Yes,No,no
+11/22/2021 11:10:41,No,10,3,Yes,The left button,Option 1,4,No,No,
+11/22/2021 11:29:56,Yes,14,5,No,The left button,Option 1,4,No,Yes,"Make sure a site is safe, always update computer/laptop to avoid any software issues, and check computer security/scan computer to avoid any viruses."
+11/22/2021 14:16:03,No,1.5,4,No,The left button,Option 1,4,No,No,No
+11/22/2021 14:22:00,Yes,6,4,No,The left button,Option 1,4,No,No,
+11/22/2021 14:56:24,Yes,5,3,No,The right button,Option 2,4,No,No,
+11/22/2021 15:02:46,Yes,8,4,No,The left button,Option 2,1,No,Yes,a
+11/23/2021 8:25:29,Yes,10,4,Yes,The right button,Option 1,1,No,No,no
+11/23/2021 22:28:26,Yes,12,4,No,The left button,Option 2,1,Yes,No,
+11/24/2021 13:24:41,Yes,10,5,No,The left button,Option 1,4,Yes,Yes,I have taken CS5024 Ethics & Professionalism course at VT.
+11/24/2021 13:41:16,Yes,10,4,No,The left button,Option 2,1,No,No,
+11/24/2021 13:45:35,Yes,10,4,No,The right button,Option 2,1,No,Yes,"Question not clear. If it means the measures I take to ensure internet safety are using antivirus, adblockers, no public Wi-Fi etc"
+11/24/2021 13:50:12,Yes,10,4,No,The left button,Option 1,1,No,No,
+11/24/2021 13:53:09,Yes,7,3,No,The left button,Option 2,1,No,No,no
+11/24/2021 13:55:54,Yes,6,5,No,The left button,Option 1,1,No,No,no
+11/24/2021 14:05:25,Yes,12,4,No,The right button,Option 1,1,No,No,
+11/24/2021 14:18:32,Yes,4,5,Yes,The left button,Option 1,1,No,No,
+11/24/2021 14:26:19,Yes,24,2,No,The left button,Option 2,1,No,No,
+11/24/2021 14:51:23,Yes,8,3,No,The left button,Option 1,1,No,No,
+11/24/2021 14:57:48,Yes,5,4,Yes,The right button,Option 1,1,Yes,Yes,No
+11/24/2021 15:48:29,Yes,10,4,No,The left button,Option 2,1,No,Yes,
+11/24/2021 16:23:33,Yes,10,4,No,The left button,Option 2,0,No,No,
+11/24/2021 18:46:18,Yes,7,4,No,The left button,Option 2,1,No,Yes,"Vpn, ad blocker, anti virus, duckduck go privacy, create strong passwords"
+11/24/2021 19:01:38,Yes,18,3,Yes,The left button,Option 2,3,No,No,
+11/24/2021 20:38:07,Yes,6,3,Yes,The left button,Option 1,3,No,No,
+11/25/2021 10:06:43,Yes,8,4,Yes,The right button,Option 2,0,No,No,
+11/25/2021 18:53:31,Yes,8,5,No,The right button,Option 1,1,Yes,No,No
+11/25/2021 19:03:42,Yes,10,3,No,The right button,Option 2,1,No,No,
+11/25/2021 19:18:02,Yes,10,4,No,The right button,Option 2,0,No,No,
+11/26/2021 12:16:26,Yes,6,3,No,The left button,Option 2,4,Yes,No,No
+11/27/2021 15:14:12,Yes,7,5,Yes,The left button,Option 1,4,No,No,
+11/28/2021 15:12:19,No,3,3,No,The left button,Option 1,4,No,No,no
+11/28/2021 16:34:24,No,3,3,No,The right button,Option 1,2,No,Yes,How to avoid phishing malware and spam
+11/28/2021 18:07:42,Yes,1,2,Yes,The left button,Option 1,1,No,No,NA
+11/28/2021 18:59:09,No,6,3,Yes,The left button,Option 1,2,No,No,No
+11/28/2021 20:35:10,No,1.5,3,No,The right button,Option 1,1,Yes,No,No
+11/28/2021 21:11:58,No,5,3,No,The left button,Option 2,2,No,No,
+11/28/2021 23:07:06,Yes,9,5,No,The left button,Option 2,4,Yes,Yes,"Do not save passwords on browser , check for malware and dont open suspicious sites "
+11/29/2021 0:16:08,No,10,3,Yes,The right button,Option 1,1,No,No,No
+12/1/2021 13:59:57,No,7,1,No,The left button,Option 2,1,No,No,No
+12/1/2021 22:53:48,Yes,10,4,No,The left button,Option 1,1,No,Yes,Take cybersecurity classes
